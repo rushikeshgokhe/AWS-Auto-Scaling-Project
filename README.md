@@ -57,8 +57,6 @@ Users
 
 <img width="738" height="406" alt="1_QxJ3Fi6yfKSYx_AvlGV8mw" src="https://github.com/user-attachments/assets/a51fc02c-0184-4a8a-9455-f12538e23d0b" />
 
-<img width="1093" height="594" alt="1_L-UzFLgWPrYM9RDczxX0xA" src="https://github.com/user-attachments/assets/54f5eb78-bf9f-4ab6-9da5-02d946fd1c0e" />
-
 
 ## ⚙ Implementation Steps
 
@@ -92,7 +90,8 @@ Users
 - Max capacity: 3
 - Attached Load Balancer
 - Enabled scaling policy based on CPU utilization
-
+  
+  <img width="1093" height="594" alt="1_L-UzFLgWPrYM9RDczxX0xA" src="https://github.com/user-attachments/assets/54f5eb78-bf9f-4ab6-9da5-02d946fd1c0e" />
 
 ### 7️⃣ Perform Stress Test
 Installed stress tool:
