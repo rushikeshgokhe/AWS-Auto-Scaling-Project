@@ -93,10 +93,10 @@ Installed stress tool:
 ```bash
 sudo yum install stress -y
 stress --cpu 4 --timeout 300
-<img width="861" height="680" alt="image" src="https://github.com/user-attachments/assets/c1a12f56-3614-4ca9-be43-9538406e3626" />
-
-<img width="738" height="406" alt="image" src="https://github.com/user-attachments/assets/62067f18-50a5-47d5-ab14-f428c72bf6f0" />
-
-<img width="1093" height="594" alt="image" src="https://github.com/user-attachments/assets/e954d635-9fbc-4090-8420-d02666ca19c5" />
 
 
+<img width="1093" height="594" alt="1_L-UzFLgWPrYM9RDczxX0xA" src="https://github.com/user-attachments/assets/d6f62f0e-31da-4ced-974f-10e91431f378" />
+
+<img width="738" height="406" alt="1_QxJ3Fi6yfKSYx_AvlGV8mw" src="https://github.com/user-attachments/assets/91c84ff2-9339-42a5-8da0-fa5aa73517b9" />
+
+<img width="861" height="680" alt="elb-tutorial-architecture-diagram" src="https://github.com/user-attachments/assets/e42a042c-4bbc-43a6-a7e4-4954aa58a1d6" />
