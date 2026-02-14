@@ -53,6 +53,12 @@ Users
 - Stress Tool (CPU Load Testing)
 
 ---
+<img width="861" height="680" alt="elb-tutorial-architecture-diagram" src="https://github.com/user-attachments/assets/7d88f4a0-036c-4739-8e94-a4d57f11f2c3" />
+
+<img width="738" height="406" alt="1_QxJ3Fi6yfKSYx_AvlGV8mw" src="https://github.com/user-attachments/assets/a51fc02c-0184-4a8a-9455-f12538e23d0b" />
+
+<img width="1093" height="594" alt="1_L-UzFLgWPrYM9RDczxX0xA" src="https://github.com/user-attachments/assets/54f5eb78-bf9f-4ab6-9da5-02d946fd1c0e" />
+
 
 ## ⚙ Implementation Steps
 
@@ -87,6 +93,7 @@ Users
 - Attached Load Balancer
 - Enabled scaling policy based on CPU utilization
 
+
 ### 7️⃣ Perform Stress Test
 Installed stress tool:
 
@@ -95,8 +102,3 @@ sudo yum install stress -y
 stress --cpu 4 --timeout 300
 
 
-<img width="1093" height="594" alt="1_L-UzFLgWPrYM9RDczxX0xA" src="https://github.com/user-attachments/assets/d6f62f0e-31da-4ced-974f-10e91431f378" />
-
-<img width="738" height="406" alt="1_QxJ3Fi6yfKSYx_AvlGV8mw" src="https://github.com/user-attachments/assets/91c84ff2-9339-42a5-8da0-fa5aa73517b9" />
-
-<img width="861" height="680" alt="elb-tutorial-architecture-diagram" src="https://github.com/user-attachments/assets/e42a042c-4bbc-43a6-a7e4-4954aa58a1d6" />
