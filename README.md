@@ -93,3 +93,10 @@ Installed stress tool:
 ```bash
 sudo yum install stress -y
 stress --cpu 4 --timeout 300
+<img width="861" height="680" alt="image" src="https://github.com/user-attachments/assets/c1a12f56-3614-4ca9-be43-9538406e3626" />
+
+<img width="738" height="406" alt="image" src="https://github.com/user-attachments/assets/62067f18-50a5-47d5-ab14-f428c72bf6f0" />
+
+<img width="1093" height="594" alt="image" src="https://github.com/user-attachments/assets/e954d635-9fbc-4090-8420-d02666ca19c5" />
+
+
